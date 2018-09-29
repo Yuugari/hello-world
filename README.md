@@ -1,2 +1,2 @@
 # hello-world
-Pierwsze repozytorium
+To jest pierwsza zmiana.
